@@ -23,11 +23,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 
 <h3>IDEs</h3>
-
-
-<br>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>
-
 <a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=nodejs" /></a>
 
