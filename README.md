@@ -23,8 +23,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 
 <h3>IDEs</h3>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>
-<a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a><a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=nodejs" /></a>
 <img width ='32px' src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/>
