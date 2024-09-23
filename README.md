@@ -6,6 +6,8 @@
 
 <br><br>
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?
+
 <!--
 **d1360d0990/d1360d0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
