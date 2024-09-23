@@ -27,16 +27,9 @@
 <a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://skillicons.dev"><img width ='32px' src="https://skillicons.dev/icons?i=nodejs" /></a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href="https://skillicons.dev"><img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href="https://skillicons.dev">  <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=discord"></a>
-  
-<br>
+<br></br>
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
-
-<h3 align="left">Languages and Tools:</h3>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -46,6 +39,15 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/></a></p>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href="https://skillicons.dev"><img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href="https://skillicons.dev">  <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=discord"></a>
+  
+<br>
+
 
 <!--
 **d1360d0990/d1360d0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
