@@ -5,7 +5,7 @@
  
 <p aligm="center">
 <h1 align="center">I'm <a href="#">Diego O. Diaz<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<img align="rigth" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=system+engineering+student;Competitive+Dieguito;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things">
+<img align="rigth" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=system+engineering+student;Backend+developer;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things">
 </p>
   <hr>
 
@@ -16,6 +16,7 @@
 <br><br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 <h3>Programming Languages</h3>
 <a href="#"><img width ='32px' src="https://skillicons.dev/icons?i=express"/></a>
 <a href=""><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></a>
@@ -45,7 +46,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href="https://skillicons.dev"><img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href=" href="mailto:diego.d0990@gmail.com""><img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://skillicons.dev">  <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=discord"></a>
   
