@@ -49,7 +49,6 @@
 <a href="#"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 
 <li><h3>IDEs</h3>
-<a href="#"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>
 <a href="#"><img width ='32px' src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="#"><img width ='32px' src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="#"><img width ='32px' src="https://skillicons.dev/icons?i=vscode" /></a>
