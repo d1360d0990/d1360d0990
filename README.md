@@ -70,7 +70,7 @@
 <table align="center" >
 <tr border="none">
   <td width="25%" align="center">
-    <p background-color = "yellow" align="center">
+    <p background-color: yellow align="center">
      <a href="https://meli-diegodiaz.onrender.com">
         <img background-color: yellow align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
       </p>
