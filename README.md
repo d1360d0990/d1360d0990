@@ -12,6 +12,17 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+💻 I am a Full Stack developer
+📚Systems Engineering student at UNLaR.
+📚Bachelor of Systems student at UNLaR.
+📚 I have a diploma in Robotics from the University of La Rioja
+📝 I have a great interest in data science and artificial intelligence.
+🔭 Working on deep learning and machine learning
+🌟 Main languages: JavaScript, HTML C, C#
+🚩 Interested in Full Stack Machine Learning Application Development
+🎵 I love lofi, jazz, blues and soft music.
+
+
 
 
 <br><br>
