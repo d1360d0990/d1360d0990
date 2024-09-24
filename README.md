@@ -67,12 +67,12 @@
 
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
+<table align="center" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+     <a href="https://meli-diegodiaz.onrender.com">
+        <img align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
       </p>
          
 </td>
