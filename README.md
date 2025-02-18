@@ -70,7 +70,6 @@
 <tr border="none">
   <td width="25%" align="center">
     ## Enlaces del Proyecto
-
 <p align="center">
   <a href="https://proyecto-react-integrador.vercel.app/">
     <img src="https://drive.google.com/uc?id=1YILEoso-vxmEGL2Ckrfr2xdV-RYm-IL8" width="150"/>
