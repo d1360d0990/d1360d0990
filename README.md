@@ -70,7 +70,9 @@
 <tr border="none">
   <td width="25%" align="center">
     <p background-color: yellow align="center">
-     <a href="https://meli-diegodiaz.onrender.com">
+     <a href="https://vercel.com/diego-diazs-projects-6e408465/proyecto-react-integrador">
+        <img background-color: yellow align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
+      <a href="https://meli-diegodiaz.onrender.com">
         <img background-color: yellow align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
       </p>
          
