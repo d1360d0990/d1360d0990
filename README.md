@@ -84,6 +84,10 @@
   </div>
 <br>
 
+En los proyectos donde pidan usuario y contraseña, utilizo las siguientes credenciales para probar las app.:
+-Usuario: usuario123
+-Contraseña: contraseña123
+
 
 <!--
 **d1360d0990/d1360d0990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
