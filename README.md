@@ -66,23 +66,21 @@
 
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="center" >
-<tr border="none">
-  <td width="25%" align="center">
-<p align="center">
-   <a href="https://meli-diegodiaz.onrender.com">
-  <img src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg" width="200"/>
-   </a>
-     <a href="https://logi-track-ivory.vercel.app/">
-    <img src="https://logi-track-ivory.vercel.app/LogiTrack-1.png" width="150"/>
-  </a>
-</p>
-
-         
-</td>
-  
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://meli-diegodiaz.onrender.com">
+        <img src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg" width="200"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://logi-track-ivory.vercel.app/">
+        <img src="https://logi-track-ivory.vercel.app/LogiTrack-1.png" width="150"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
   </div>
 <br>
 
