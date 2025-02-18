@@ -71,11 +71,12 @@
   <td width="25%" align="center">
 <p align="center">
   <a href="https://proyecto-react-integrador.vercel.app/">
-    <img src="https://drive.google.com/uc?id=1YILEoso-vxmEGL2Ckrfr2xdV-RYm-IL8" width="150"/>
+    <img src="https://drive.google.com/file/d/1YILEoso-vxmEGL2Ckrfr2xdV-RYm-IL8/view?usp=sharing" width="150"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://meli-diegodiaz.onrender.com">
   <img src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg" width="150"/>
+
     
   </a>
 </p>
