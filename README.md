@@ -83,10 +83,13 @@
 
   </div>
 <br>
-
+<td width="50%" align="left">
 En los proyectos donde pidan usuario y contraseña, utilizo las siguientes credenciales para probar las app.:
--Usuario: usuario123
--Contraseña: contraseña123
+- Usuario: usuario123
+- Contraseña: contraseña123
+
+</td>
+
 
 
 <!--
