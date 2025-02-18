@@ -69,12 +69,18 @@
 <table align="center" >
 <tr border="none">
   <td width="25%" align="center">
-    <p background-color: yellow align="center">
-     <a href="https://vercel.com/diego-diazs-projects-6e408465/proyecto-react-integrador">
-        <img background-color: yellow align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
-      <a href="https://meli-diegodiaz.onrender.com">
-        <img background-color: yellow align="center" width=100% src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg"/></a>
-      </p>
+    ## Enlaces del Proyecto
+
+<p align="center">
+  <a href="https://proyecto-react-integrador.vercel.app/">
+    <img src="https://meli-diegodiaz.onrender.com/images/logo-mercado-liebre.svg" width="150"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://meli-diegodiaz.onrender.com">
+    <img src="https://drive.google.com/uc?id=1YILEoso-vxmEGL2Ckrfr2xdV-RYm-IL8" width="150"/>
+  </a>
+</p>
+
          
 </td>
   
